@@ -1,39 +1,39 @@
 {
-    "basic": 
-    {
+    "basics": {
         "name": "Dhanish Kumar",
         "label": "Student",
-        "picture": "https://avatars.githubusercontent.com/u/88244827?s=400&u=fdef8f000c2381d16f51c31d2a2a69c47521aa2a&v=4",
-        "email": "2020Kkucp1040@iiitkota.ac.in",
+	"picture": "https://avatars.githubusercontent.com/u/88244827?s=400&u=fdef8f000c2381d16f51c31d2a2a69c47521aa2a&v=4",
+        "email": "2020kucp1040@iiitkota.ac.in",
         "phone": "+917042859071",
-        "Summary": "I am a student of Indian Institute of Information Technology, Kota  persuing my B.tech in Computer Science & Engineering (CSE). I like to play football very much.",
-        "location":
-        {
+        "summary": "I am a student of Indian Institute of Information Technology, Kota  persuing my B.tech in Computer Science & Engineering (CSE).",
+        "location": {
             "address": "Ghaziabad",
-            "postalCode":"201010",
-            "city":"Ghaziabad",
-            "countryCode": "India",
-            "region":"Uttar Pradesh"
+            "postalCode": "201010",
+            "city": "Ghaziabad",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
         },
-        "profiles":[
-            {
+        "profiles": [
+                {
                 "network": "Github",
-                "username":"Demigorgan123",
+                "username": "demigorgan123",
                 "url": "https://github.com/demigorgan123"
             },
             {
                 "network": "Instagram",
                 "username": "aman.banswal",
-                "url": "https://www.instagram.com/aman.banswal"
+                "url": "https://www.instagram.com/aman.banswal/"
             }
         ]
     },
     "education": [
         {
-            "institution": "Indian Institution of Technology , Kota",
+            "institution": "Indian Institute of Information Technology,Kota",
             "area": "Engineering",
             "studyType": "Bachelor of Technology",
-            "courses": "Computer Science and Engineering"
+            "courses": [
+                "Computer Science & Engineering"
+            ]
         }
     ],
     "skills": [
@@ -42,7 +42,7 @@
             "keywords": [
                 "C",
                 "Python",
-                "php",
+                "PHP",
                 "HTML",
                 "CSS"
             ]
@@ -50,14 +50,16 @@
     ],
     "languages": [
         {
-            "language": "English"
+            "language": "English",
+            "fluency": "Native speaker"
         }
     ],
     "interests": [
         {
             "name": "Playing",
             "keywords": [
-                "Football",
+		        "Football",
+                "Chess",
                 "Badminton",
                 "Basketball"
             ]
